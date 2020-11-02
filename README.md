@@ -7,13 +7,6 @@ Currently busy with being:
 - Android Tech Editor @ [RayWenderlich](http://raywenderlich.com/)
 - University instructor at BME-VIK, teaching Kotlin and Android
 
-Previously seen at:
-- [Skyscanner](https://github.com/Skyscanner)
-- [AutSoft](https://github.com/AutSoft)
+Previously seen at: [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft)
 
-Also found in these other places:
-- [Blog](https://zsmb.co/)
-- [Talks](https://zsmb.co/talks/)
-- [Twitter](https://twitter.com/zsmb13)
-- [StackOverflow](https://stackoverflow.com/users/4465208/zsmb13)
-- [LinkedIn](https://www.linkedin.com/in/zsmb13/)
+Also found in these other places: [Blog](https://zsmb.co/), [Talks](https://zsmb.co/talks/), [Twitter](https://twitter.com/zsmb13), [StackOverflow](https://stackoverflow.com/users/4465208/zsmb13), [LinkedIn](https://www.linkedin.com/in/zsmb13/)
