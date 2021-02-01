@@ -2,7 +2,7 @@ A Kotlin enthusiast since the 1.0 of the language, writing Kotlin as much as pos
 
 Currently busy with being:
 
-- Senior Android Developer @ [Stream](https://github.com/GetStream)
+- Android Developer Advocate @ [Stream](https://github.com/GetStream)
 - Google Developer Expert for Kotlin and Android
 - Android Tech Editor @ [RayWenderlich](http://raywenderlich.com/)
 - University instructor at BME-VIK, teaching Kotlin and Android
