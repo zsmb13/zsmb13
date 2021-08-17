@@ -3,9 +3,11 @@ A Kotlin enthusiast since the 1.0 of the language, writing Kotlin as much as pos
 Currently busy with being:
 
 - Android Developer Advocate @ [Stream](https://github.com/GetStream)
-- Google Developer Expert for Kotlin and Android
+- [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-marton-braun) for Kotlin and Android
 - Android Tech Editor @ [RayWenderlich](http://raywenderlich.com/)
-- University instructor at BME-VIK, teaching Kotlin and Android
+- University instructor at [BME-VIK](https://www.vik.bme.hu/), teaching Kotlin and Android
+- Co-organizer for the [Android Budapest](https://www.meetup.com/Android-Budapest/) meetup
+- Organizer of sorts and video producer for [Android Worldwide](https://android-worldwide.com/)
 
 Previously seen at: [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft)
 
