@@ -2,11 +2,12 @@ A Kotlin enthusiast since the 1.0 of the language, writing Kotlin as much as pos
 
 Currently busy with being:
 
-- Android Developer Relations Engineer at Google
 - University instructor at [BME-VIK](https://www.vik.bme.hu/), teaching Kotlin and Android
 - Co-organizer for the [Android Budapest](https://www.meetup.com/Android-Budapest/) meetup
 - Organizer of sorts and video producer for [Android Worldwide](https://android-worldwide.com/)
 
-Previously seen at: [Stream](https://github.com/GetStream), [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft), working with [RayWenderlich](http://raywenderlich.com/), and as a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-marton-braun) for Kotlin and Android.
+Previously seen at: [Android DevRel, Google](https://github.com/android), [Stream](https://github.com/GetStream), [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft), working with [RayWenderlich](http://raywenderlich.com/), and as a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-marton-braun) for Kotlin and Android.
 
-Also found in these other places: [Blog](https://zsmb.co/), [Talks](https://zsmb.co/talks/), [Twitter](https://twitter.com/zsmb13), [StackOverflow](https://stackoverflow.com/users/4465208/zsmb13), [LinkedIn](https://www.linkedin.com/in/zsmb13/)
+See also: [Blog](https://zsmb.co/) and [Talks](https://zsmb.co/talks/)
+
+Can also be found on: [Mastodon](https://androiddev.social/@zsmb13), [StackOverflow](https://stackoverflow.com/users/4465208/zsmb13), [LinkedIn](https://www.linkedin.com/in/zsmb13/), [Twitter](https://twitter.com/zsmb13)
