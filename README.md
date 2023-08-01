@@ -6,7 +6,7 @@ Currently busy with being:
 - Co-organizer for the [Android Budapest](https://www.meetup.com/Android-Budapest/) meetup
 - Organizer of sorts and video producer for [Android Worldwide](https://android-worldwide.com/)
 
-Previously seen at: [Android DevRel, Google](https://github.com/android), [Stream](https://github.com/GetStream), [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft), working with [RayWenderlich](http://raywenderlich.com/), and as a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-marton-braun) for Kotlin and Android.
+Previously seen at: [Android DevRel (Google)](https://github.com/android), [Stream](https://github.com/GetStream), [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft), working with [RayWenderlich](http://raywenderlich.com/), and as a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-marton-braun) for Kotlin and Android.
 
 See also: [Blog](https://zsmb.co/) and [Talks](https://zsmb.co/talks/)
 
