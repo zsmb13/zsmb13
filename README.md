@@ -4,7 +4,7 @@ Currently busy with being:
 
 - Developer Advocate at [JetBrains](https://www.jetbrains.com/)
 - University instructor at [BME-VIK](https://www.vik.bme.hu/), teaching Kotlin and Android
-- [Google Developer Expert](https://developers.google.com/profile/u/zsmb13) for Kotlin and Android
+- [Google Developer Expert](https://developers.google.com/profile/u/zsmb13) for Android
 - Co-organizer for the [Android Budapest](https://www.meetup.com/Android-Budapest/) meetup
 
 Previously seen at: [Android DevRel (Google)](https://github.com/android), [Stream](https://github.com/GetStream), [Skyscanner](https://github.com/Skyscanner),  [AutSoft](https://github.com/AutSoft), working with [RayWenderlich](http://raywenderlich.com/), co-organizing [Android Worldwide](https://android-worldwide.com/).
